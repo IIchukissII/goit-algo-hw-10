@@ -25,7 +25,7 @@ $x1 + x2 →max $
 - Результат інтегрування, за допомогою scipy.integrate.quad: 2.666666666666667
 - Результат інтегрування методом Монте-Карло: 2.6666 ± 0.0004
 
-  [$ SE(\bar{X}) = \frac{s}{\sqrt{n}} $](https://latex.codecogs.com/svg.image?SE(\bar{X})=\frac{s}{\sqrt{n}})
+ [latex]SE(\bar{X})=\frac{s}{\sqrt{n}}[/latex]
 
 де:
 - $ SE(\bar{X}) $ - стандартна похибка вибіркового середнього,
