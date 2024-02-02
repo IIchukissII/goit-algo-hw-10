@@ -28,10 +28,9 @@ $x1 + x2 →max $
 ![image](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/aa4b53f6-245e-4a60-8c41-af1c85d54fc5)
 
 де:
-- ![image](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/a7fcc53c-bcfa-4342-becd-cf9db43930ae)
- - стандартна похибка вибіркового середнього,
-- $ s $ - вибіркова стандартна відхиленість,
-- $ n $ - розмір вибірки.
+- ![image](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/a7fcc53c-bcfa-4342-becd-cf9db43930ae) - стандартна похибка вибіркового середнього,
+- $s$ - вибіркова стандартна відхиленість,
+- $n$ - розмір вибірки.
 
   Що правда, точність методу Монте-Карло прямопропорційна кількості випадкових данних. Тобто $n ![image](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/39cb5002-44a3-445a-a545-b6ddf9106fe6) → std![image](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/c013027f-e46e-4a4f-8a92-372b5bf749a9)
 $
