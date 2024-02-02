@@ -1,4 +1,4 @@
-![CodeCogsEqn](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/ae2d6a68-bad8-4ddb-97c7-e2171ef9b10c)# Завдання 1
+# Завдання 1
 Завдання було приведене до наступного табличного виду:
 
 |                | Лимонад   | Фруктовий сік | $→max$ |
@@ -11,7 +11,7 @@
 Цільова функція має наступний вигляд:
 $x1 + x2 →max $ 
 
-![equation](https://latex.codecogs.com/svg.latex?%5Cbegin%7Bcases%7D%0A%20%20x_1%20+%20x_2%20%5Cleq%20100%20%5C%5C%0A%20%20x_1%20%5Cleq%2050%20%5C%5C%0A%20%20x_1%20%5Cleq%2030%20%5C%5C%0A%20%202x_2%20%5Cleq%2040%20%5C%5C%0A%20%20x_1,%20x_2%20%5Cgeq%200%0A%5Cend%7Bcases%7D)
+![CodeCogsEqn](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/ae2d6a68-bad8-4ddb-97c7-e2171ef9b10c)
 
 
 
