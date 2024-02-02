@@ -1,4 +1,4 @@
-# Завдання 1
+![CodeCogsEqn](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/ae2d6a68-bad8-4ddb-97c7-e2171ef9b10c)# Завдання 1
 Завдання було приведене до наступного табличного виду:
 
 |                | Лимонад   | Фруктовий сік | $→max$ |
@@ -10,8 +10,8 @@
 
 Цільова функція має наступний вигляд:
 $x1 + x2 →max $ 
+![Uploading Co![Figure_1](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/5bc57d42-8528-412f-89cb-b44c9faeb2a4)deCogsEqn.svg…]()
 
-![equation](https://latex.codecogs.com/svg.image?\begin{cases}2x_1&plus;x_2\leq&space;100\\x_1\leq50\\x_1\leq30\\2x_2\leq40\\x_1,x_2\geq0\end{cases})
 
 ## Відповідь
 Для максималізації виробництва, враховуючи обмеження на кількість ресурсів, потрібно виробляти:
