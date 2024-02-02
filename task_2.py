@@ -1,9 +1,11 @@
 import numpy as np
 from scipy.integrate import quad
 
+
 # Визначення функції
 def f(x):
     return x ** 2
+
 
 # Визначення меж інтегрування
 a = 0
@@ -30,5 +32,4 @@ standard_error = np.std(random_y) / np.sqrt(num_points)
 
 print("Результат інтегрування, за допомогою scipy.integrate.quad:", result)
 
-print(f"Результат інтегрування методом Монте-Карло: {integral_approximation:.4f} +/- {standard_error:.4f}")
-
+print(f"Результат інтегрування методом Монте-Карло: {integral_approximation:.4f} ± {standard_error:.4f}")
