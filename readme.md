@@ -11,13 +11,13 @@
 Цільова функція має наступний вигляд:
 $x1 + x2 →max $ 
 
-$\begin{cases}
+[$\begin{cases}
 2x_1 + x_2 \leq 100 \\
 x_1\leq50 \\
 x_1\leq30 \\
 2x_2\leq40 \\
 x_1,x_2\geq0
-\end{cases}$
+\end{cases}$](https://latex.codecogs.com/svg.image?\begin{cases}2x_1&plus;x_2\leq&space;100\\x_1\leq50\\x_1\leq30\\2x_2\leq40\\x_1,x_2\geq0\end{cases})
 
 ## Відповідь
 Для максималізації виробництва, враховуючи обмеження на кількість ресурсів, потрібно виробляти:
