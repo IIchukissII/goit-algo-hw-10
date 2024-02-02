@@ -26,7 +26,7 @@ $x1 + x2 →max $
 - Результат інтегрування методом Монте-Карло: 2.6666 ± 0.0004
 
 ![image](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/aa4b53f6-245e-4a60-8c41-af1c85d54fc5)
-
+$SE(\bar{X})$
 де:
 - ![image](https://github.com/IIchukissII/goit-algo-hw-10/assets/133657307/a7fcc53c-bcfa-4342-becd-cf9db43930ae) - стандартна похибка вибіркового середнього,
 - $s$ - вибіркова стандартна відхиленість,
