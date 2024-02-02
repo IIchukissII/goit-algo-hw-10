@@ -15,7 +15,7 @@ $\begin{cases}
 2x_1 + x_2 \leq 100 \\
 x_1\leq50 \\
 x_1\leq30 \\
-2x_2\leq40
+2x_2\leq40 \\
 x_1,x_2\geq0
 \end{cases}$
 
